@@ -1,7 +1,7 @@
 databases:
   - name: NewTodo
-    databaseName: NewTodo
-    user: NewTodo
+    databaseName: NewTodo_development
+    user: wonderwoman
 
 services:
   - type: web
